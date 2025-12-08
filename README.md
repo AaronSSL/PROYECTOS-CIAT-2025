@@ -74,28 +74,54 @@ Este repositorio recopila los **4 proyectos** estratégicos desarrollados por el
       - Repositorio: https://github.com/Davfre3/Codigos-de-robotica.git
   - **🖼️ Imagen representativa:**
 
+
+https://github.com/user-attachments/assets/a1b155a1-fd40-4d3c-9b56-2cd6e63bb593
+
+
 -----
 
-### **📌 [PROYECTO 3: NOMBRE DEL PROYECTO]**
+📌 PROYECTO 3: AndeanFlow (Transformación de Huayno a Reggaetón)
+👥 Autor(es) - Equipo CIAT:
 
-  - **👥 Autor(es) - Equipo CIAT:**
-      - Aaron Soto López
-      - Gerson Chanca
-      - Yoel Miranda
-      - Domingo Cabrera
-      - Leslie Neciosup
-      - Luis Taype
-  - **📅 Ciclo:** [202X-XX]
-  - **📖 Descripción:** [Describe aquí de qué trata el tercer proyecto de CIAT.]
-  - **🎯 Objetivos:**
-    1.  [Objetivo 1]
-    2.  [Objetivo 2]
-  - **🛠️ Tecnologías utilizadas:**
-      - **[Tecnología 1]**
-      - **[Tecnología 2]**
-  - **🔗 Enlace al repositorio o demo:**
-      - Repositorio: [Insertar enlace aquí]
-  - **🖼️ Imagen representativa:** 
+Aaron Soto López
+
+Gerson Chanca
+
+Yoel Miranda
+
+Domingo Cabrera
+
+Leslie Neciosup
+
+Luis Taype
+
+📅 Ciclo: 2025-1
+
+📖 Descripción: Herramienta de ingeniería de sonido automatizada diseñada para realizar una fusión cultural musical, transformando canciones del género Huayno en pistas de Reggaetón. El sistema procesa archivos de video o audio originales, utiliza algoritmos de Inteligencia Artificial para separar las vocales de la instrumentación folclórica y, mediante scripts de Python, realiza una mezcla programática con bases rítmicas urbanas (loops).
+
+🎯 Objetivos:
+
+Separación de Fuentes con IA: Implementar el modelo Demucs (Meta AI) para aislar limpiamente la voz del cantante, eliminando instrumentos complejos como arpas o violines del audio original.
+
+Orquestación de Audio: Desarrollar un pipeline en Python que automatice la carga de beats de reggaetón y la superposición de las voces extraídas, ajustando tiempos y volúmenes sin intervención manual.
+
+Generación de Remixes: Crear un flujo de trabajo capaz de producir una fusión musical ("Andean Flow") exportando el resultado final en formatos listos para reproducción (.wav/.mp3).
+
+🛠️ Tecnologías utilizadas:
+
+Python: Lógica principal de orquestación (main.py, musica.py).
+
+Demucs: Modelo de Deep Learning para la separación de stems (Voz/Instrumental).
+
+Pydub / FFmpeg: Librerías para el procesamiento, corte y mezcla de señales de audio.
+
+Gestión de Archivos: Automatización de carpetas de entrada (input) y salida (output).
+
+🔗 Enlace al repositorio o demo:
+
+Repositorio: [Insertar enlace aquí]
+
+🖼️ Imagen representativa:
 
 -----
 
