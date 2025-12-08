@@ -30,7 +30,7 @@ Este repositorio recopila los **4 proyectos** estratégicos desarrollados por el
       - Domingo Cabrera
       - Leslie Neciosup
       - Luis Taype
-  - **📅 Ciclo:** [202X-XX]
+  - **📅 Ciclo:** [2025-02]
   - **📖 Descripción:** Solución de ingeniería de software que automatiza el proceso de clonación de voz y generación de "covers" musicales. Transforma una tarea manual y compleja de 30 minutos en un flujo de trabajo de un solo clic, integrando un entorno local (Windows) con computación en la nube de alto rendimiento (Google Colab). El sistema orquesta autónomamente la separación de pistas, la configuración de GPUs remotas y la mezcla final de audio.
   - **🎯 Objetivos:**
     1.  **Automatización Total:** Eliminar la intervención humana en las etapas de separación de audio (Demucs), inferencia de voz y mezcla, reduciendo el tiempo de operación drásticamente.
@@ -44,7 +44,7 @@ Este repositorio recopila los **4 proyectos** estratégicos desarrollados por el
       - **ntfy.sh (Pub/Sub):** Protocolo de comunicación asíncrona entre Local y Nube.
       - **FFmpeg / Pydub:** Procesamiento y mezcla de audio digital.
   - **🔗 Enlace al repositorio o demo:**
-      - Repositorio: [Insertar enlace aquí]
+      - Repositorio: https://github.com/AaronSSL/Proyecto-Cover.git
   - **🖼️ Imagen representativa:**
 
 -----
@@ -58,7 +58,7 @@ Este repositorio recopila los **4 proyectos** estratégicos desarrollados por el
       - Domingo Cabrera
       - Leslie Neciosup
       - Luis Taype
-  - **📅 Ciclo:** [202X-XX]
+  - **📅 Ciclo:** [2025-02]
   - **📖 Descripción:** Prototipo de "Depósito Inteligente" diseñado para combatir la gestión ineficiente de residuos sólidos urbanos. ClasiFIRE automatiza la segregación de materiales reciclables en la fuente utilizando Inteligencia Artificial y una arquitectura distribuida. A diferencia de los sistemas tradicionales, este proyecto implementa el paradigma "Residuos 4.0", dotando de visión por computadora y conectividad IoT al punto de recolección para eliminar errores humanos y riesgos sanitarios.
   - **🎯 Objetivos:**
     1.  **Segregación en Tiempo Real:** Automatizar la clasificación de residuos mediante Redes Neuronales Convolucionales (CNN), mejorando la tasa de reciclaje efectiva (actualmente solo 33% global).
@@ -71,7 +71,7 @@ Este repositorio recopila los **4 proyectos** estratégicos desarrollados por el
       - **Microcontroladores (AVR & ESP/Wi-Fi):** Control de hardware y comunicación asíncrona.
       - **Edge Computing:** Procesamiento de datos en el borde para baja latencia.
   - **🔗 Enlace al repositorio o demo:**
-      - Repositorio: [Insertar enlace aquí]
+      - Repositorio: https://github.com/Davfre3/Codigos-de-robotica.git
   - **🖼️ Imagen representativa:**
 
 -----
