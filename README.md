@@ -1,7 +1,3 @@
-Aquí tienes la actualización con los dos proyectos detallados (**RVC Orchestration** y **ClasiFIRE**) y los espacios para los otros dos restantes, manteniendo el formato del repositorio y la lista de autores del equipo CIAT.
-
------
-
 # 🎓 **Proyectos Presentados - CIAT**
 
 Bienvenidos al repositorio de proyectos desarrollados por el equipo **CIAT**. Aquí se documentan las 4 soluciones tecnológicas presentadas, destacando la innovación en automatización, inteligencia artificial e IoT.
