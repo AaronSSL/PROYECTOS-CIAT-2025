@@ -119,7 +119,7 @@ Gestión de Archivos: Automatización de carpetas de entrada (input) y salida (o
 
 🔗 Enlace al repositorio o demo:
 
-Repositorio: [Insertar enlace aquí]
+Repositorio: https://github.com/AaronSSL/Proyecto-huyano---regueaton.git
 
 🖼️ Imagen representativa:
 
